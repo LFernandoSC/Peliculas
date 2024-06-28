@@ -1,0 +1,15 @@
+{
+  "name": "base_peliculas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server ./peliculas.json --host 0.0.0.0 --port 3200"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
