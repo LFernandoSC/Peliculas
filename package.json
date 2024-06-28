@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server ./peliculas.json --port 3200"
+    "start": "json-server --watch peliculas.json --port 3200 --host 0.0.0.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.3"
   }
 }
