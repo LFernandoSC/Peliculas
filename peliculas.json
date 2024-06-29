@@ -48,6 +48,42 @@
               "https://i.pinimg.com/originals/f1/37/ea/f137ea949f9f4638961b0ce5722326cf.jpg",
             "backgroundImage":
               "https://i.pinimg.com/originals/ee/1a/7c/ee1a7cfa305816956518a5b76dbec8bd.jpg"
+          },
+          {
+            "title": "Ready Player One: comienza el juego",
+            "year": 2018,
+            "director": "Steven Spielberg",
+            "duration": "2h 20min",
+            "genre": ["Ciencia ficción", "Action"],
+            "rate": 7.5,
+            "poster":
+              "https://i.pinimg.com/originals/da/0c/e7/da0ce75028f4e6c5fcc355f08a381e84.jpg",
+            "backgroundImage":
+              "https://i.pinimg.com/originals/62/11/e5/6211e5ed5511df3066ddec56913ae805.jpg"
+          },
+          {
+            "title": "Tetris",
+            "year": 2023,
+            "director": "Jon S. Baird",
+            "duration": "1h 58min",
+            "genre": ["Suspenso","Action","History"],
+            "rate": 7.5,
+            "poster":
+              "https://i.pinimg.com/originals/50/46/a7/5046a708fb4e857173b8cdff197378cb.jpg",
+            "backgroundImage":
+              "https://i.pinimg.com/originals/1e/0d/b7/1e0db7f0e4d213af31bce14ed7d98de1.jpg"
+          },
+          {
+            "title": "Mortal Kombat",
+            "year": 2021,
+            "director": "Simon McQuoid",
+            "duration": "1h 50min",
+            "genre": ["Fantasy","Action","Adventure"],
+            "rate": 6.5,
+            "poster":
+              "https://i.pinimg.com/originals/61/1e/00/611e00dcfc169181c4e69b40efa24143.jpg",
+            "backgroundImage":
+              "https://i.pinimg.com/originals/68/50/21/6850210d325548118800f9bec128ba32.jpg"
           }
     ]
 }
